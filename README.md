@@ -30,15 +30,15 @@
 
 ---
 ## Introduce
-> Hi, I'm Yong Chan Park.  #
+> Hi, I'm Yong Chan Park.
 > 
-> I'm interested in Database(DB)  #
+> I'm interested in Database(DB)
 > 
-> So, I want to be a Database Engineer  #
+> So, I want to be a Database Engineer
 > 
-> For that, I required SQLD & Data analysis Certification  # 
+> For that, I required SQLD & Data analysis Certification
 > 
-> Now, I'm studing how to efficiently loss time for transaction  #  
+> Now, I'm studing how to efficiently loss time for transaction
  
 ---
 ## Contact Me
