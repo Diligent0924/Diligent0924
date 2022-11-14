@@ -31,10 +31,10 @@
 ---
 ## Introduce
 > Hi, I'm Yong Chan Park.
-I'm interested in Database(DB)
-So, I want to be a Database Engineer
-For that, I required SQLD & Data analysis Certification
-Now, I'm studing how to efficiently loss time for transaction
+> I'm interested in Database(DB)
+> So, I want to be a Database Engineer
+> For that, I required SQLD & Data analysis Certification
+> Now, I'm studing how to efficiently loss time for transaction
 ---
 ## Contact Me
 [![Github](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white)](https://github.com/Diligent0924)
