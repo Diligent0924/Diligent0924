@@ -15,6 +15,27 @@
 - Vue (It's not well)
 
 ---
+## Recently Study
+ - 1 Daily, 1 Algorithm
+ - SQLP Certification for Database Engineer
+ - MySQL Performance Tuning
+ - Project (Vue/Django Project)
+ - AWS
+
+---
+## Certification
+* 빅데이터 분석기사
+* 정보처리기사
+* SQLD
+
+---
+## Introduce
+> Hi, I'm Yong Chan Park.
+I'm interested in Database(DB)
+So, I want to be a Database Engineer
+For that, I required SQLD & Data analysis Certification
+Now, I'm studing how to efficiently loss time for transaction
+---
 ## Contact Me
 [![Github](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white)](https://github.com/Diligent0924)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://github.com/Diligent0924)
