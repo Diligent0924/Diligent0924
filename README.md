@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20ParkYongChan's%20Portfolio%20&fontSize=40)
 ## My Tech
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Diligent0924)
-&nbsp;
+&nbsp; &nbsp;
 [![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=black)](https://github.com/Diligent0924)
-&nbsp;
+&nbsp; &nbsp;
 [![amazon](https://img.shields.io/badge/amazon-232F3E?style=flat-square&logo=Amazon&logoColor=black)](https://github.com/Diligent0924)
-&nbsp;
+&nbsp; &nbsp;
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://github.com/Diligent0924)
-&nbsp;
+&nbsp; &nbsp;
 [![Django](https://img.shields.io/badge/Vue-092E20?style=flat-square&logo=Vue.js&logoColor=white)](https://github.com/Diligent0924)
 
 ---
@@ -47,5 +47,7 @@
 ---
 ## Contact Me
 [![Github](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://github.com/Diligent0924t)
