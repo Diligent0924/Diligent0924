@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20ParkYongChan's%20Portfolio%20&fontSize=40)
 ## My Tech
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Diligent0924)
+&nbsp;
 [![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=black)](https://github.com/Diligent0924)
+&nbsp;
 [![amazon](https://img.shields.io/badge/amazon-232F3E?style=flat-square&logo=Amazon&logoColor=black)](https://github.com/Diligent0924)
+&nbsp;
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://github.com/Diligent0924)
+&nbsp;
 [![Django](https://img.shields.io/badge/Vue-092E20?style=flat-square&logo=Vue.js&logoColor=white)](https://github.com/Diligent0924)
 
 ---
