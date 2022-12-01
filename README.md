@@ -2,7 +2,7 @@
 ## My Tech
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Diligent0924)
 &nbsp; &nbsp;
-[![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=black)](https://github.com/Diligent0924/database/tree/master/MYSQL)
+[![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=black)](https://github.com/Diligent0924/database/tree/master/DB)
 &nbsp; &nbsp;
 [![amazon](https://img.shields.io/badge/amazon-232F3E?style=flat-square&logo=Amazon&logoColor=black)](https://github.com/Diligent0924)
 &nbsp; &nbsp;
