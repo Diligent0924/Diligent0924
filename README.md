@@ -6,9 +6,7 @@
 &nbsp; &nbsp;
 [![amazon](https://img.shields.io/badge/amazon-232F3E?style=flat-square&logo=Amazon&logoColor=black)](https://github.com/Diligent0924/database/tree/master/AWS)
 &nbsp; &nbsp;
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://github.com/Diligent0924)
-&nbsp; &nbsp;
-[![Vue](https://img.shields.io/badge/Vue-092E20?style=flat-square&logo=Vue.js&logoColor=white)](https://github.com/Diligent0924)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://github.com/Diligent0924/database/tree/master/Django)
 &nbsp; &nbsp;
 [![Python](https://img.shields.io/badge/Python-092E20?style=flat-square&logo=Python&logoColor=white)](https://github.com/Diligent0924)
 ---
