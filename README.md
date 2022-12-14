@@ -8,9 +8,9 @@
 &nbsp; &nbsp;
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://github.com/Diligent0924)
 &nbsp; &nbsp;
-[![Django](https://img.shields.io/badge/Vue-092E20?style=flat-square&logo=Vue.js&logoColor=white)](https://github.com/Diligent0924)
+[![Vue](https://img.shields.io/badge/Vue-092E20?style=flat-square&logo=Vue.js&logoColor=white)](https://github.com/Diligent0924)
 &nbsp; &nbsp;
-[![Django](https://img.shields.io/badge/Python-092E20?style=flat-square&logo=Python&logoColor=white)](https://github.com/Diligent0924)
+[![Python](https://img.shields.io/badge/Python-092E20?style=flat-square&logo=Python&logoColor=white)](https://github.com/Diligent0924)
 ---
 ## What can I do?
 - Python Crawling (API, Reqeusts, Beautifulsoap etc..)
