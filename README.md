@@ -44,6 +44,11 @@
 > Now, I'm studing how to efficiently loss time for transaction
  
 ---
+## Project
+1. MoviegameProject : DRF + REACT를 이용한 영화 게임 프로젝트, 첫번째 프로젝트로 Backend 담당  
+
+
+
 ## Contact Me
 [![Github](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white)](https://github.com/Diligent0924)
 &nbsp; &nbsp;
