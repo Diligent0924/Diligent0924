@@ -18,7 +18,7 @@
 &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/Jenkins-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/jenkins-FCC624?style=for-the-badge&logo=jenkins&logoColor=black">
 
 ---
 ## What can I do?
