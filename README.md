@@ -2,13 +2,11 @@
 ## My Tech
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 &nbsp; &nbsp;
-[![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=black)](https://github.com/Diligent0924/database/tree/master/DB)
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=black">
 &nbsp; &nbsp;
-[![amazon](https://img.shields.io/badge/amazon-232F3E?style=flat-square&logo=Amazon&logoColor=black)](https://github.com/Diligent0924/database/tree/master/AWS)
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
 &nbsp; &nbsp;
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://github.com/Diligent0924/database/tree/master/Django)
-&nbsp; &nbsp;
-[![Python](https://img.shields.io/badge/Python-092E20?style=flat-square&logo=Python&logoColor=white)](https://github.com/Diligent0924)
+<img src="https://img.shields.io/badge/Python-092E20?style=flat-square&logo=Python&logoColor=white">\
 &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 &nbsp; &nbsp;
