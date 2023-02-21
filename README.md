@@ -39,9 +39,9 @@
 
 ---
 ## Certification
-* 빅데이터 분석기사
-* 정보처리기사
-* SQLD
+* Big Data Analyst(빅데이터 분석기사)
+* Information Processing Enginner(정보처리기사)
+* SQL Developer Certification(SQLD)
 
 ---
 ## Introduce
