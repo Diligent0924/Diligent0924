@@ -1,22 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20ParkYongChan's%20Portfolio%20&fontSize=40)
 ## My Tech
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=black">  
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=black">
 &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">  
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
 &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/Python-092E20?style=flat-square&logo=Python&logoColor=white">  
+<img src="https://img.shields.io/badge/Python-092E20?style=flat-square&logo=Python&logoColor=white">
 &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">  
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">  
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/jenkins-FCC624?style=for-the-badge&logo=jenkins&logoColor=black">  
+<img src="https://img.shields.io/badge/jenkins-FCC624?style=for-the-badge&logo=jenkins&logoColor=black">
 
 ---
 ## What can I do?
