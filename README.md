@@ -10,7 +10,7 @@
 &nbsp; &nbsp;
 [![Python](https://img.shields.io/badge/Python-092E20?style=flat-square&logo=Python&logoColor=white)](https://github.com/Diligent0924)
 &nbsp; &nbsp;
-[![JavaSpringboot](https://img.shields.io/badge/Springboot-092E20?style=flat-square&logo=Python&logoColor=white)](https://github.com/Diligent0924)
+[![Springboot](https://img.shields.io/badge/Springboot-092E20?style=flat-square&logo=Python&logoColor=white)](https://github.com/Diligent0924)
 
 ---
 ## What can I do?
