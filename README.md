@@ -45,9 +45,9 @@
  
 ---
 ## Project
-1. MoviegameProject : DRF + REACT를 이용한 영화 게임 프로젝트, 첫번째 프로젝트로 Backend 담당  
+1. MoviegameProject : DRF + REACT를 이용한 영화 게임 프로젝트, 첫번째 프로젝트로 Backend 담당 (2인 구성 팀)
 
-
+2. Rungstory : 달리는 사람들을 위한 모바일 어플리케이션으로 Backend(JPA) + CICD(Docker / Nginx / Jenkins) 담당 (6인 구성 팀)
 
 ## Contact Me
 [![Github](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white)](https://github.com/Diligent0924)
