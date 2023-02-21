@@ -10,7 +10,15 @@
 &nbsp; &nbsp;
 [![Python](https://img.shields.io/badge/Python-092E20?style=flat-square&logo=Python&logoColor=white)](https://github.com/Diligent0924)
 &nbsp; &nbsp;
-[![Spring Boot](https://img.shields.io/badge/Spring Boot-092E20?style=flat-square&logo=Python&logoColor=white)](https://github.com/Diligent0924)
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+&nbsp; &nbsp;
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+&nbsp; &nbsp;
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+&nbsp; &nbsp;
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+&nbsp; &nbsp;
+<img src="https://img.shields.io/badge/jenkins-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 ---
 ## What can I do?
