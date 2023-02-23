@@ -84,7 +84,7 @@
  
 ---
 ## Project
-1. Rungstory : 달리는 사람들을 위한 모바일 어플리케이션으로 Backend(JPA) + CICD(Docker / Nginx / Jenkins) 담당 (6인 구성 팀)
+1. Runstory : 달리는 사람들을 위한 모바일 어플리케이션으로 Backend(JPA) + CICD(Docker / Nginx / Jenkins) 담당 (6인 구성 팀)
 &nbsp; &nbsp;
 [![Runstory](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Runstory)  
 
