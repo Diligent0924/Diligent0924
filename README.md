@@ -47,7 +47,19 @@
 * Big Data Analyst(빅데이터 분석기사)
 * Information Processing Enginner(정보처리기사)
 * SQL Developer Certification(SQLD)
+  
+---
+## Education Completion
+* SSAFY (Samsumg Software Academy For Youth)
+  * Educatioin period : 8 month
+  * What did I learn : JPA, Django, Algorithm, Flask, CICD(AWS/Docker/Jenkins/Ubuntu), React, etc
 
+---
+## Career
+* Air Force Officer (공군 장교)
+  * Employment period : 3 years (3년)
+  * Duty in charge : Safety & Manpower Management (안전/정비능력담당)
+  * First Lieutenant(Sub-Lieutenant) Discharge (중위 전역)
 ---
 ## Introduce
 > Hi, I'm Yong Chan Park.
@@ -58,7 +70,7 @@
 > 
 > For that, I required SQLD & Data analysis Certification
 > 
-> Now, I'm studing how to efficiently loss time for transaction
+> Now, I'm studing how to efficiently loss time for transaction and JPA
  
 ---
 ## Project
