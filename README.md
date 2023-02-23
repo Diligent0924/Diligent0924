@@ -26,6 +26,8 @@
 [![Jenkins](https://img.shields.io/badge/jenkins-FCC624?style=for-the-badge&logo=jenkins&logoColor=black)](https://github.com/Diligent0924)
 &nbsp; &nbsp;
 [![Dockers](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
+[![Dockers](https://img.shields.io/badge/Nginx-darkgreen?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/Diligent0924)
 
 ---
 ## Tools 
@@ -34,6 +36,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 [![Jira](https://img.shields.io/badge/Jira-red?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/Diligent0924)
 [![Mattermost](https://img.shields.io/badge/Mattermost-blue?style=for-the-badge&logo=Mattermost&logoColor=white)](https://github.com/Diligent0924)
+[![Webex](https://img.shields.io/badge/Webex-black?style=for-the-badge&logo=Webex&logoColor=white)](https://github.com/Diligent0924)
 
 ---
 ## What can I do?
