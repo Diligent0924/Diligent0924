@@ -29,11 +29,11 @@
 
 ---
 ## Tools 
-[![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/Diligent0924)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Intellij IDE](https://img.shields.io/badge/Intellij-2C2255.svg?&style=for-the-badge&logo=Intellij%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+[![Jira](https://img.shields.io/badge/Jira-red?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/Diligent0924)
+[![Mattermost](https://img.shields.io/badge/Mattermost-blue?style=for-the-badge&logo=Mattermost&logoColor=white)](https://github.com/Diligent0924)
 
 ---
 ## What can I do?
