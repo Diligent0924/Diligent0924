@@ -1,30 +1,40 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20ParkYongChan's%20Portfolio%20&fontSize=40)
 
-## My Tech
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Diligent0924)
-&nbsp; &nbsp;
-[![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=black)](https://github.com/Diligent0924)
-&nbsp; &nbsp;
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://github.com/Diligent0924)
-&nbsp; &nbsp;
-[![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=blue)](https://github.com/Diligent0924)
-&nbsp; &nbsp;
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/Diligent0924)
-&nbsp; &nbsp;
-[![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/Diligent0924)
-&nbsp; &nbsp;
-[![AWS](https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=aws&logoColor=white)](https://github.com/Diligent0924)
-&nbsp; &nbsp;
-[![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/Diligent0924)
-&nbsp; &nbsp;
-[![Jenkins](https://img.shields.io/badge/jenkins-FCC624?style=flat-square&logo=jenkins&logoColor=black)](https://github.com/Diligent0924)
-&nbsp; &nbsp;
-[![Dockers](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white)](https://github.com/Diligent0924)
+
+![Yongchans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diligent0924&show_icons=true&theme=radical)&nbsp; &nbsp;
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sdc00035)](https://solved.ac/sdc00035) 
 
 ---
-## Backjoon Tier
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sdc00035)](https://solved.ac/sdc00035)<br/>
+## My Tech
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
+[![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=black)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
+[![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=blue)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
+[![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
+[![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
+[![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
+[![Jenkins](https://img.shields.io/badge/jenkins-FCC624?style=for-the-badge&logo=jenkins&logoColor=black)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
+[![Dockers](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Diligent0924)
+
+---
+## Tools 
+[![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/Diligent0924)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
 ---
 ## What can I do?
 - Python Crawling (API, Reqeusts, Beautifulsoap etc..)
@@ -83,8 +93,8 @@
 [![쟈스스톤](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Moviegameproject)
 
 ## Contact Me
-[![Github](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white)](https://github.com/Diligent0924)
+[![Github](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white)](https://github.com/Diligent0924)
 &nbsp; &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://github.com/Diligent0924)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](https://github.com/Diligent0924)
 &nbsp; &nbsp;
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://github.com/Diligent0924t)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://github.com/Diligent0924t)
