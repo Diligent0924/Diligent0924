@@ -90,7 +90,7 @@
 
 2. Rungstory : 달리는 사람들을 위한 모바일 어플리케이션으로 Backend(JPA) + CICD(Docker / Nginx / Jenkins) 담당 (6인 구성 팀)
 &nbsp; &nbsp;
-[![쟈스스톤](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Moviegameproject)
+[![쟈스스톤](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Runstory)
 
 ## Contact Me
 [![Github](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white)](https://github.com/Diligent0924)
