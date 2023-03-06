@@ -91,7 +91,7 @@
 &nbsp; &nbsp;
 [![Runstory](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Runstory)  
 
-2. MoviegameProject : DRF + REACT를 이용한 영화 게임 프로젝트, 첫번째 프로젝트로 Backend 담당 (2인 구성 팀)
+2. 쟈스스톤 : DRF + REACT를 이용한 영화 게임 프로젝트, 첫번째 프로젝트로 Backend 담당 (2인 구성 팀)
 &nbsp; &nbsp;
 [![쟈스스톤](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Moviegameproject)
 
