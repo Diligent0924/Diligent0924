@@ -40,6 +40,8 @@
 
 ---
 ## What can I do?
+- SpringBoot(JPA) feature development
+- Nginx / Docker-compose / Docker / Jenkin etc...
 - Python Crawling (API, Reqeusts, Beautifulsoap etc..)
 - SQL for database (Join, Union, subqeury etc..)
 - MySQL query tuning (Index Searching for time loss)
