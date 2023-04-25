@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20ParkYongChan's%20Portfolio%20&fontSize=40)
 
 
-![Yongchans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diligent0924&show_icons=true&theme=radical)&nbsp; &nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sdc00035)](https://solved.ac/sdc00035) 
 
 ---
