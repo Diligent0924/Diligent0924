@@ -39,22 +39,24 @@
 
 ---
 ## What can I do?
+- Kubernetes(Kubeadm)
+- Containerization Architecture
 - SpringBoot(JPA) feature development
-- Nginx / Docker-compose / Docker / Jenkin etc...
 - Python Crawling (API, Reqeusts, Beautifulsoap etc..)
-- SQL for database (Join, Union, subqeury etc..)
-- MySQL query tuning (Index Searching for time loss)
+- DataBase Architecture
+- DB tuning (Index Searching for time loss)
 - Django / DRF (Backend)
-- React (I'm not good at it)
 
 ---
 ## Recently Study
- - 1 Daily, 1 Algorithm (If possible)
+ - Kubernetes(Kubeadm) Cluster Architecture
+ - Server Trouble Shooting Recovery
+ - CI ( Jenkins - JenkinsPipeline )
+ - CD ( ArgoCD )
+ - AWS EC2 / RDS / S3
  - Java Spring Boot (JPA)
- - CICD (AWS / ec2 / Docker / Jenkins ...)
- - SQLP Certification for Database Engineer
+ - Linux ( Ubuntu )
  - MySQL Performance Tuning
- - Project (Runstory Project)
 
 ---
 ## Certification
@@ -65,8 +67,8 @@
 ---
 ## Education Completion
 * SSAFY (Samsumg Software Academy For Youth)
-  * Educatioin period : 8 month
-  * What did I learn : JPA, Django, Algorithm, Flask, CICD(AWS/Docker/Jenkins/Ubuntu), React, etc
+  * Educatioin period : 11 month
+  * What did I learn : Kubernetes, Docker, Jenkins, JPA, Django, Algorithm etc
 
 ---
 ## Career
@@ -78,13 +80,7 @@
 ## Introduce
 > Hi, I'm Yong Chan Park.
 > 
-> I'm interested in Database(DB) and Backend(JPA)
-> 
-> So, I want to be a Database Engineer or Backend Engineer
-> 
-> For that, I required SQLD & Data analysis Certification
-> 
-> Now, I'm studing how to efficiently loss time for transaction and JPA
+> I'm interested in Devops and Cloud
  
 ---
 ## Project
