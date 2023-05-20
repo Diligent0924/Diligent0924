@@ -10,41 +10,41 @@
 &nbsp; &nbsp;
 ![Dockers](https://img.shields.io/badge/Docker-lightgrey?style=for-the-badge&logo=docker&logoColor=blue)
 &nbsp; &nbsp;
-[![Nginx](https://img.shields.io/badge/Nginx-lightgrey?style=for-the-badge&logo=nginx&logoColor=darkgreen)](https://github.com/Diligent0924)
+![Nginx](https://img.shields.io/badge/Nginx-lightgrey?style=for-the-badge&logo=nginx&logoColor=darkgreen)
 
 &nbsp; &nbsp;
-[![Jenkins](https://img.shields.io/badge/jenkins-lightgrey?style=for-the-badge&logo=jenkins&logoColor=red)](https://github.com/Diligent0924)
+![Jenkins](https://img.shields.io/badge/jenkins-lightgrey?style=for-the-badge&logo=jenkins&logoColor=red)
 
 &nbsp; &nbsp;
-[![Linux](https://img.shields.io/badge/linux-lightgrey?style=for-the-badge&logo=linux&logoColor=yellow)](https://github.com/Diligent0924)
+![Linux](https://img.shields.io/badge/linux-lightgrey?style=for-the-badge&logo=linux&logoColor=yellow)
 
 &nbsp; &nbsp;
-[![Mysql](https://img.shields.io/badge/Mysql-lightgrey?style=for-the-badge&logo=Mysql&logoColor=blue)](https://github.com/Diligent0924)
+![Mysql](https://img.shields.io/badge/Mysql-lightgrey?style=for-the-badge&logo=Mysql&logoColor=blue)
 &nbsp; &nbsp;
-[![Django](https://img.shields.io/badge/Django-lightgrey?style=for-the-badge&logo=Django&logoColor=darkgreen)](https://github.com/Diligent0924)
+![Django](https://img.shields.io/badge/Django-lightgrey?style=for-the-badge&logo=Django&logoColor=darkgreen)
 
 &nbsp; &nbsp;
-[![Spring](https://img.shields.io/badge/Spring-lightgrey?style=for-the-badge&logo=Spring&logoColor=lightgreen)](https://github.com/Diligent0924)
+![Spring](https://img.shields.io/badge/Spring-lightgrey?style=for-the-badge&logo=Spring&logoColor=lightgreen)
 
 &nbsp; &nbsp;
-[![Redis](https://img.shields.io/badge/Redis-lightgrey?style=for-the-badge&logo=redis&logoColor=purple)](https://github.com/Diligent0924)
+![Redis](https://img.shields.io/badge/Redis-lightgrey?style=for-the-badge&logo=redis&logoColor=purple)
 
 ---
 ## Tools 
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 &nbsp; &nbsp;
-[![Jira](https://img.shields.io/badge/Jira-red?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/Diligent0924)
+![Jira](https://img.shields.io/badge/Jira-red?style=for-the-badge&logo=jira&logoColor=white)
 &nbsp; &nbsp;
-[![Mattermost](https://img.shields.io/badge/Mattermost-blue?style=for-the-badge&logo=Mattermost&logoColor=white)](https://github.com/Diligent0924)
+![Mattermost](https://img.shields.io/badge/Mattermost-blue?style=for-the-badge&logo=Mattermost&logoColor=white)
 &nbsp; &nbsp;
-[![ArgoCD](https://img.shields.io/badge/ArgoCD-FCC624?style=for-the-badge&logo=argo&logoColor=black)](https://github.com/Diligent0924)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FCC624?style=for-the-badge&logo=argo&logoColor=black)
 
 &nbsp; &nbsp;
-[![amazonrds](https://img.shields.io/badge/AWS-RDS-232F3E?style=for-the-badge&logo=amazonrds&logoColor=white)](https://github.com/Diligent0924)
+![amazonrds](https://img.shields.io/badge/AWS-RDS-232F3E?style=for-the-badge&logo=amazonrds&logoColor=white)
 
 &nbsp; &nbsp;
-[![amazonrds](https://img.shields.io/badge/AWS-S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white)](https://github.com/Diligent0924)
+![amazonrds](https://img.shields.io/badge/AWS-S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white)
 ---
 ## What can I do?
 - Kubernetes(Kubeadm)
