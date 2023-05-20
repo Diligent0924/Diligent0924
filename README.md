@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20ParkYongChan's%20Portfolio%20&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=ParkYongChan's%20Portfolio%20&fontSize=40)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sdc00035)](https://solved.ac/sdc00035) 
@@ -6,41 +6,52 @@
 ---
 
 ## My Tech
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/Diligent0924)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-lightgrey?style=for-the-badge&logo=Kubernetes&logoColor=blue)](https://github.com/Diligent0924)
+
 &nbsp; &nbsp;
-[![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=black)](https://github.com/Diligent0924)
+[![Dockers](https://img.shields.io/badge/Docker-lightgrey?style=for-the-badge&logo=docker&logoColor=blue)](https://github.com/Diligent0924)
+
 &nbsp; &nbsp;
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)](https://github.com/Diligent0924)
+[![Nginx](https://img.shields.io/badge/Nginx-lightgrey?style=for-the-badge&logo=nginx&logoColor=darkgreen)](https://github.com/Diligent0924)
+
 &nbsp; &nbsp;
-[![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=blue)](https://github.com/Diligent0924)
+[![Jenkins](https://img.shields.io/badge/jenkins-lightgrey?style=for-the-badge&logo=jenkins&logoColor=red)](https://github.com/Diligent0924)
+
 &nbsp; &nbsp;
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)](https://github.com/Diligent0924)
+[![Linux](https://img.shields.io/badge/linux-lightgrey?style=for-the-badge&logo=linux&logoColor=yellow)](https://github.com/Diligent0924)
+
 &nbsp; &nbsp;
-[![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Diligent0924)
+[![Mysql](https://img.shields.io/badge/Mysql-lightgrey?style=for-the-badge&logo=Mysql&logoColor=blue)](https://github.com/Diligent0924)
 &nbsp; &nbsp;
-[![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white)](https://github.com/Diligent0924)
+[![Django](https://img.shields.io/badge/Django-lightgrey?style=for-the-badge&logo=Django&logoColor=darkgreen)](https://github.com/Diligent0924)
+
 &nbsp; &nbsp;
-[![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/Diligent0924)
+[![Spring](https://img.shields.io/badge/Spring-lightgrey?style=for-the-badge&logo=Spring&logoColor=lightgreen)](https://github.com/Diligent0924)
+
 &nbsp; &nbsp;
-[![Jenkins](https://img.shields.io/badge/jenkins-FCC624?style=for-the-badge&logo=jenkins&logoColor=black)](https://github.com/Diligent0924)
-&nbsp; &nbsp;
-[![Dockers](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Diligent0924)
-&nbsp; &nbsp;
-[![Dockers](https://img.shields.io/badge/Nginx-darkgreen?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/Diligent0924)
+[![Redis](https://img.shields.io/badge/Redis-lightgrey?style=for-the-badge&logo=redis&logoColor=purple)](https://github.com/Diligent0924)
 
 ---
 ## Tools 
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Intellij IDE](https://img.shields.io/badge/Intellij-2C2255.svg?&style=for-the-badge&logo=Intellij%20IDE&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-[![Jira](https://img.shields.io/badge/Jira-red?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/Diligent0924)
-[![Mattermost](https://img.shields.io/badge/Mattermost-blue?style=for-the-badge&logo=Mattermost&logoColor=white)](https://github.com/Diligent0924)
-[![Webex](https://img.shields.io/badge/Webex-black?style=for-the-badge&logo=Webex&logoColor=white)](https://github.com/Diligent0924)
 
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+&nbsp; &nbsp;
+[![Jira](https://img.shields.io/badge/Jira-red?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
+[![Mattermost](https://img.shields.io/badge/Mattermost-blue?style=for-the-badge&logo=Mattermost&logoColor=white)](https://github.com/Diligent0924)
+&nbsp; &nbsp;
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-FCC624?style=for-the-badge&logo=argo&logoColor=black)](https://github.com/Diligent0924)
+
+&nbsp; &nbsp;
+[![amazonrds](https://img.shields.io/badge/AWS-RDS-232F3E?style=for-the-badge&logo=amazonrds&logoColor=white)](https://github.com/Diligent0924)
+
+&nbsp; &nbsp;
+[![amazonrds](https://img.shields.io/badge/AWS-S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white)](https://github.com/Diligent0924)
 ---
 ## What can I do?
 - Kubernetes(Kubeadm)
 - Containerization Architecture
+- CICD (Jenkins, ArgoCD etc..)
 - SpringBoot(JPA) feature development
 - Python Crawling (API, Reqeusts, Beautifulsoap etc..)
 - DataBase Architecture
@@ -77,18 +88,21 @@
   * Duty in charge : Safety & Manpower Management (안전/정비능력담당)
   * First Lieutenant(Sub-Lieutenant) Discharge (중위 전역)
 ---
-## Introduce
-> Hi, I'm Yong Chan Park.
-> 
-> I'm interested in Devops and Cloud
- 
----
+
 ## Project
-1. Runstory : 달리는 사람들을 위한 모바일 어플리케이션으로 Backend(JPA) + CICD(Docker / Nginx / Jenkins) 담당 (6인 구성 팀)
+1. Watchify: OTT별 시청 컨텐츠 추천 및 스케쥴링을 통하여 바쁜 직장인들이 빠르게 볼 수 있도록 도움을 주는 어플리케이션 프로젝트
+&nbsp; &nbsp;
+[![Watchify](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Runstory) 
+
+1. Seven Deadly Sins : 사회의 7가지 문제점을 Gamification하게 풀어내어 스트레스를 해소하고자 만들어진 웹 게임 프로젝트
+&nbsp; &nbsp;
+[![Seven Deadly sins](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Runstory) 
+
+1. Runstory : 코로나가 끝나가는 현재, 주변 사람들과 함께 달리고자 하는 사람들을 위한 모바일 어플리케이션 프로젝트
 &nbsp; &nbsp;
 [![Runstory](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Runstory)  
 
-2. 쟈스스톤 : DRF + REACT를 이용한 영화 게임 프로젝트, 첫번째 프로젝트로 Backend 담당 (2인 구성 팀)
+1. 쟈스스톤 : DRF + REACT를 이용한 영화 게임 프로젝트, 첫번째 프로젝트로 Backend 담당 (2인 구성 팀)
 &nbsp; &nbsp;
 [![쟈스스톤](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Moviegameproject)
 
