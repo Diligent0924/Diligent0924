@@ -83,8 +83,7 @@
 ## Project
 1. Watchify: OTT별 시청 컨텐츠 추천 및 스케쥴링을 통하여 바쁜 직장인들이 빠르게 볼 수 있도록 도움을 주는 어플리케이션 프로젝트
 &nbsp; &nbsp;
-[![Watchify](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Runstory)
-
+[![Watchify](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Watchify)
 1. Seven Deadly Sins : 사회의 7가지 문제점을 Gamification하게 풀어내어 스트레스를 해소하고자 만들어진 웹 게임 프로젝트
 &nbsp; &nbsp;
 [![Seven Deadly sins](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Runstory) 
