@@ -86,7 +86,7 @@
 [![Watchify](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Watchify)
 1. Seven Deadly Sins : 사회의 7가지 문제점을 Gamification하게 풀어내어 스트레스를 해소하고자 만들어진 웹 게임 프로젝트
 &nbsp; &nbsp;
-[![Seven Deadly sins](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/Runstory) 
+[![Seven Deadly sins](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/Diligent0924/SevenDeadlySins) 
 
 1. Runstory : 코로나가 끝나가는 현재, 주변 사람들과 함께 달리고자 하는 사람들을 위한 모바일 어플리케이션 프로젝트
 &nbsp; &nbsp;
